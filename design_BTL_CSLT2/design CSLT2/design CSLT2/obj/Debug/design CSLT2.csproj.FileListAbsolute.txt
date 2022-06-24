@@ -1,0 +1,18 @@
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\obj\Debug\design CSLT2.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\obj\Debug\design CSLT2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\bin\Debug\design CSLT2.exe.config
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\bin\Debug\design CSLT2.exe
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\bin\Debug\design CSLT2.pdb
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\obj\Debug\design_CSLT2._9.resources
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\obj\Debug\design_CSLT2.bc7.resources
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\obj\Debug\design_CSLT2.frmbaocaosach.resources
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\obj\Debug\design_CSLT2.frmDangNhap.resources
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\obj\Debug\design_CSLT2.FrmHoSoTra.resources
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\obj\Debug\design_CSLT2.frmtimkiemsachtruyen.resources
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\obj\Debug\design_CSLT2.hồ_sơ_mượn.resources
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\obj\Debug\design_CSLT2.Properties.Resources.resources
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\obj\Debug\design_CSLT2.tìm_thủ_thư.resources
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\obj\Debug\design CSLT2.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\obj\Debug\design CSLT2.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\obj\Debug\design CSLT2.exe
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\gdien\13-form-thi-t-k-cslt2-main\design_BTL_CSLT2\design CSLT2\design CSLT2\obj\Debug\design CSLT2.pdb
